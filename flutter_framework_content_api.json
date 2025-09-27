@@ -1,7 +1,7 @@
 {
   "main_content_version": 1,
-  "partial_content_vertion": 10,
-  "content_file_url": [
+  "partial_content_version": 10,
+  "content_file_url_list": [
     "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.0.zip",
     "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.1.zip",
     "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.2.zip",

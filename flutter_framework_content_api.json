@@ -12,6 +12,8 @@
     {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.7.zip", "version": 7, "type": "partial"},
     {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.8.zip", "version": 8, "type": "partial"},
     {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.9.zip", "version": 9, "type": "partial"},
-    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.10.zip", "version": 10, "type": "partial"}
+    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.10.zip", "version": 10, "type": "partial"},
+    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.9.zip", "version": 11, "type": "partial"},
+    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_1.10.zip", "version": 12, "type": "partial"}
   ]
 }

@@ -1,7 +1,8 @@
 {
   "main_content_version": 2,
-  "partial_content_version": 0,
+  "partial_content_version": 1,
   "content_file_url_list": [
-    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.0.zip", "version": 2, "type": "main"}
+    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.0.zip", "version": 2, "type": "main"},
+    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.1.zip", "version": 1, "type": "partial"}
     ]
 }

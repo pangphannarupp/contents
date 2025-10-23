@@ -1,11 +1,12 @@
 {
   "main_content_version": 2,
-  "partial_content_version": 4,
+  "partial_content_version": 5,
   "content_file_url_list": [
     {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.0.zip", "version": 2, "type": "main"},
     {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.1.zip", "version": 1, "type": "partial"},
     {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.2.zip", "version": 2, "type": "partial"},
-    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.2.zip", "version": 3, "type": "partial"},
-    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.2.zip", "version": 4, "type": "partial"}
+    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.3.zip", "version": 3, "type": "partial"},
+    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.4.zip", "version": 4, "type": "partial"},
+    {"url": "https://raw.githubusercontent.com/pangphannarupp/contents/main/flutter_framework_content/flutter_framework_content_2.5.zip", "version": 5, "type": "partial"}
     ]
 }
